@@ -1,0 +1,6 @@
+# Secret key used to fingerprint Aadhaar/PAN - never commit it
+.urban_secret
+__pycache__/
+*.pyc
+.env
+.venv/
