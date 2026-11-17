@@ -142,11 +142,6 @@ The full transcript is in [`docs/sample_run.txt`](docs/sample_run.txt). It cover
 * Command-line only. A web or mobile front end in regional languages would suit the target users better.
 * Ideas: search by location or price, soil and water information, rent payment records, and links to government agriculture schemes.
 
-## Team
-
-Class XII, Presidency School, Bangalore North (2023–24)
-**P R Kavinkanth** · Niharika · Rochan
-
 ## License
 
 [MIT](LICENSE)
